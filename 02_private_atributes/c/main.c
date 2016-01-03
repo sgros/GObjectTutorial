@@ -2,7 +2,7 @@
 
 int main(int argc, char **argv)
 {
-	Point *point = point_new();
+	Point *point1 = point_new();
 
 	return 0;
 }
